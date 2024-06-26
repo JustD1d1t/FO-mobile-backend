@@ -1,7 +1,7 @@
 {
   "name": "binance-backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "\"Edit me later\"",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -23,5 +23,7 @@
     "nodemailer": "^6.7.7",
     "nodemon": "^2.0.15",
     "qs": "^6.11.0"
-  }
+  },
+  "devDependencies": {},
+  "keywords": []
 }
